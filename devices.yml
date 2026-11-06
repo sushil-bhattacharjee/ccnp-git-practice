@@ -3,3 +3,5 @@ devices:
     mgmt: 10.10.20.11
   - name: sw2
     mgmt: 10.10.20.12
+  - name: sw3
+    mgmt: 10.10.20.13
