@@ -1,0 +1,5 @@
+site: 2
+vlans:
+  - {id: 10, name: users}
+  - {id: 20, name: voice}
+  - {id: 30, name: printers}
